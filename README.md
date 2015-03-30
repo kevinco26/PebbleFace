@@ -2,9 +2,11 @@
 Pebble Watch App - Medicine tracker/reminder.
 
 USAGE:
-install node \n 
-install npm\n
-install hapi\n
+install node 
+
+install npm
+
+install hapi
 
 With OSX it can be done by using homebew from the terminal
 
