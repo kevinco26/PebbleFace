@@ -13,7 +13,7 @@ INSTALLATION:
 RUN:
 in the terminal:
 
-node getRequest
+      node getRequest
 
 copy the url of the local server in the ajax requests( on the app.js file)
 
