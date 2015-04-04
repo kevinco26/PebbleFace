@@ -1,17 +1,24 @@
 # PebbleFace
 Pebble Watch App - Medicine tracker/reminder.
 
-USAGE:
-install node 
+INSTALLATION:
+brew install node 
 
-install npm
+node install npm
 
-install hapi
+npm install hapi
 
-With OSX it can be done by using homebew from the terminal
 
-USAGE:
+RUN:
 run in terminal:
 node getRequest
-copy the url of the local server in the ajax requests( on the pebble.js file)
-compile and run the pebble.js file
+copy the url of the local server in the ajax requests( on the app.js file)
+
+FOR PEBBLE SDK 3.0:
+Go to the pebblejs directory and run the following commands:
+pebble build
+pebble install --emulator basalt 
+
+App currently works for one reminder only.
+Working on updates.
+
