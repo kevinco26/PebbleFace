@@ -12,6 +12,7 @@ INSTALLATION:
 
 RUN:
 in the terminal:
+go to the directory where you saved the getRequest.js file
 
       node getRequest
 
