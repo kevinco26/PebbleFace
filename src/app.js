@@ -19,7 +19,7 @@ var main = new UI.Card({
 
  ajax(
   {
-    url: 'http://Kevin-Cs-MacBook-Pro-4.local:3000/Kevin/medicine',
+    url: 'http:<url>',
     type: 'json'
   },
   function(data, status, request) {
@@ -49,7 +49,7 @@ Wakeup.launch(function(e) {
   } else {
     ajax(
   {
-    url: 'http://Kevin-Cs-MacBook-Pro-4.local:3000/Kevin/medicine',
+    url: '<url>',
     type: 'json'
   },
   function(data, status, request) {
